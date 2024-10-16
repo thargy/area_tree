@@ -1,0 +1,12 @@
+{
+  "domain": "area_tree",
+  "name": "Area Tree",
+  "codeowners": [
+    "@thargy"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/thargy/area_tree",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/thargy/area_tree/issues",
+  "version": "0.0.0"
+}
