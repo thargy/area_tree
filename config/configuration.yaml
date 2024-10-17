@@ -10,3 +10,5 @@ logger:
   default: info
   logs:
     custom_components.area_tree: debug
+
+demo:

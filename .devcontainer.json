@@ -14,7 +14,7 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "ms-python.black-formatter",
+                "charliermarsh.ruff",
                 "github.vscode-pull-request-github",
                 "ms-python.python",
                 "ms-python.vscode-pylance",
@@ -31,7 +31,7 @@
                 "python.analysis.autoImportCompletions": true,
                 "python.defaultInterpreterPath": "/usr/local/bin/python",
                 "[python]": {
-                    "editor.defaultFormatter": "ms-python.black-formatter",
+                    "editor.defaultFormatter": "charliermarsh.ruff",
                     "editor.formatOnType": true,
                     "editor.formatOnSave": true
                 }
